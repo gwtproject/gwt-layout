@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.gwtproject.layout</groupId>
     <artifactId>gwt-layout-parent</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>HEAD-SNAPSHOT</version>
   </parent>
   <artifactId>gwt-layout-j2cl-tests</artifactId>
 
@@ -53,7 +53,7 @@
     <maven.findbugs.plugin>3.0.5</maven.findbugs.plugin>
     <maven.install.plugin>3.0.0-M1</maven.install.plugin>
     <maven.jar.plugin>3.1.2</maven.jar.plugin>
-    <maven.j2cl.plugin>0.13-SNAPSHOT</maven.j2cl.plugin>
+    <maven.j2cl.plugin>0.16-SNAPSHOT</maven.j2cl.plugin>
     <maven.licence.plugin>3.0</maven.licence.plugin>
     <maven.surfire.plugin>3.0.0-M1</maven.surfire.plugin>
 
@@ -61,12 +61,12 @@
     <vertispan.j2cl.repo.url>https://repo.vertispan.com/j2cl/</vertispan.j2cl.repo.url>
     <google.snapshot.repo.url>https://oss.sonatype.org/content/repositories/google-snapshots/</google.snapshot.repo.url>
 
-    <elemental2.version>1.0.0-RC1</elemental2.version>
-    <gwt.dom.version>1.0-SNAPSHOT</gwt.dom.version>
-    <gwt.dom.style.definitions.version>1.0-SNAPSHOT</gwt.dom.style.definitions.version>
-    <gwt.regexp.version>1.0-SNAPSHOT</gwt.regexp.version>
-    <jsinterop.base.version>1.0.0-SNAPSHOT</jsinterop.base.version>
-    <j2cl.version>0.7-SNAPSHOT</j2cl.version>
+    <elemental2.version>1.1.0</elemental2.version>
+    <gwt.dom.version>HEAD-SNAPSHOT</gwt.dom.version>
+    <gwt.dom.style.definitions.version>HEAD-SNAPSHOT</gwt.dom.style.definitions.version>
+    <gwt.regexp.version>HEAD-SNAPSHOT</gwt.regexp.version>
+    <jsinterop.base.version>1.0.0</jsinterop.base.version>
+    <j2cl.version>0.8-SNAPSHOT</j2cl.version>
     <slf4j.version>1.7.5</slf4j.version>
   </properties>
 
